@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Donnie Thurman
+N:Thurman;Donnie;;;
+ORG:Eastern Washington University
+TITLE:Designer
+EMAIL;TYPE=INTERNET:athurman2@ewu.edu
+TEL;TYPE=CELL:+1 509 558 9722
+URL:https://donniethurman.github.io
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/donnie-thurman-0b0b093a8/
+X-SOCIALPROFILE;TYPE=tiktok:https://www.tiktok.com/@_donnie
+X-SOCIALPROFILE;TYPE=github:https://github.com/donniethurman
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/_donniethurman/?hl=en
+X-SOCIALPROFILE;TYPE=facebook:https://facebook.com
+ADR;TYPE=WORK:;;601 E. Riverside;Spokane;;USA
+NOTE:Specializing in web design.
+END:VCARD
